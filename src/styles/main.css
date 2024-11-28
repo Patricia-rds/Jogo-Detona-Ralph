@@ -17,7 +17,7 @@
 }
 
 .panel {
-    margin-top: 1rem;
+    margin-top: 8rem;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -27,12 +27,12 @@
     height: 150px;
     width: 150px;
     border: 1px solid #000000;
-    background-color: #1aeaa5;
+    background-color: #b8b8b8;
 }
 
 .enemy {
-    background-image: url("../images/ralph.png");
-    background-size: cover;
+    background-image: url("../images/detona ralph.gif");
+    background-size: contain;
 }
 
 .menu-lives {
